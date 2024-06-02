@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-hamza-dev&label=Profile%20views&color=0e75b6&style=flat" alt="im-hamza-dev" /> </p>
 
 </br>
- 🔭 Working as **Executive Software Engineer @ AERODYNE** <br/>
+ 🔭 Working as <strong>Executive Software Engineer @ AERODYNE </strong><br/>
  🌱 Exploring **Angular, Flutter, ThreeJS** <br/>
  👯 Open to collaborate on **MERN App Projects** <br/>
  🤝 Join me in **transforming a vision into a game-changing reality** <br/>
