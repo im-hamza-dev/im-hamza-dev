@@ -5,25 +5,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-hamza-dev&label=Profile%20views&color=0e75b6&style=flat" alt="im-hamza-dev" /> </p>
 
 </br>
-- 🔭 I’m currently working as **Executive Software Engineer @ AERODYNE**
+ 🔭 I’m currently working as **Executive Software Engineer @ AERODYNE**
 
-- 🌱 I’m currently learning **Angular, Flutter, ThreeJS**
+ 🌱 I’m currently learning **Angular, Flutter, ThreeJS**
 
-- 👯 I’m looking to collaborate on **MERN App Projects**
+ 👯 I’m looking to collaborate on **MERN App Projects**
 
-- 🤝 Join me in **transforming a vision into a game-changing reality**
+ 🤝 Join me in **transforming a vision into a game-changing reality**
 
-- 👨‍💻 All of my projects are available at [...coming soon](...coming soon)
+ 👨‍💻 All of my projects are available at [...coming soon](...coming soon)
 
-- 📝 I regularly write articles on [...coming soon](...coming soon)
+ 📝 I regularly write articles on [...coming soon](...coming soon)
 
-- 💬 Ask me about **React, Gatsby, Javascript**
+ 💬 Ask me about **React, Gatsby, Javascript**
 
-- 📫 How to reach me **hi.hamza.dev@gmail.com**
+ 📫 How to reach me **hi.hamza.dev@gmail.com**
 
-- 📄 Know about my experiences [...coming soon](...coming soon)
+ 📄 Know about my experiences [...coming soon](...coming soon)
 
-- ⚡ Fun fact **Love to Travel**
+ ⚡ Fun fact **Love to Travel**
 
  
 </br>
