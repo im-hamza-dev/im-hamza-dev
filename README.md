@@ -6,12 +6,12 @@
 
 </br>
  🔭 Working as <strong>Executive Software Engineer @ AERODYNE </strong><br/>
- 🌱 Exploring **Angular, Flutter, ThreeJS** <br/>
- 👯 Open to collaborate on **MERN App Projects** <br/>
- 🤝 Join me in **transforming a vision into a game-changing reality** <br/>
+ 🌱 Exploring <strong>Angular, Flutter, ThreeJS** <br/>
+ 👯 Open to collaborate on <strong>MERN App Projects</strong> <br/>
+ 🤝 Join me in <strong>transforming a vision into a game-changing reality</strong> <br/>
  👨‍💻 All of my projects are available at [...coming soon]<br/>
- 💬 Ask me about **React, Gatsby, Javascript** <br/>
- 📫 How to reach me **hi.hamza.dev@gmail.com** <br/>
+ 💬 Ask me about **React, Gatsby, Javascript</strong> <br/>
+ 📫 How to reach me <strong>[hi.hamza.dev@gmail.com]</strong> <br/>
  📄 Know about my experiences [...coming soon] <br/>
 
 
