@@ -11,7 +11,7 @@
  🤝 Join me in <strong>transforming a vision into a game-changing reality</strong> <br/>
  👨‍💻 All of my projects are available at [...coming soon]<br/>
  💬 Ask me about **React, Gatsby, Javascript</strong> <br/>
- 📫 How to reach me <strong>[hi.hamza.dev@gmail.com]</strong> <br/>
+ 📫 How to reach me [<strong>hi.hamza.dev@gmail.com</strong>] <br/>
  📄 Know about my experiences [...coming soon] <br/>
 
 
