@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Iqbal</h1>
+<h1 align="center">Hi, I'm Hamza Iqbal</h1>
 <h3 align="center">Senior Software Engineer</h3>
 </br>
 </br>
@@ -43,10 +43,10 @@
 
 </br>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-hamza-dev&show_icons=true&locale=en&layout=compact" alt="im-hamza-dev" /></p>
+<p><img height='200' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-hamza-dev&show_icons=true&locale=en&layout=compact" alt="im-hamza-dev" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-hamza-dev&show_icons=true&locale=en" alt="im-hamza-dev" /></p>
+<p>&nbsp;<img height='200' src="https://github-readme-stats.vercel.app/api?username=im-hamza-dev&show_icons=true&locale=en" alt="im-hamza-dev" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-hamza-dev&" alt="im-hamza-dev" /></p>
+<p><img height='200' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-hamza-dev&" alt="im-hamza-dev" /></p>
