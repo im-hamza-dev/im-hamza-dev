@@ -43,10 +43,10 @@
 
 </br>
 </br>
-<p><img height='200'  src="https://github-readme-stats.vercel.app/api/top-langs?username=im-hamza-dev&show_icons=true&locale=en&layout=compact" alt="im-hamza-dev" /></p>
+<p><img height='200'  src="https://github-readme-stats.vercel.app/api/top-langs?username=im-hamza-dev&show_icons=true&theme=radical&locale=en&layout=compact" alt="im-hamza-dev" /></p>
 
 
-<p>&nbsp;<img height='200' src="https://github-readme-stats.vercel.app/api?username=im-hamza-dev&show_icons=true&locale=en" alt="im-hamza-dev" /></p>
+<p>&nbsp;<img height='200' src="https://github-readme-stats.vercel.app/api?username=im-hamza-dev&theme=radical&show_icons=true&locale=en" alt="im-hamza-dev" /></p>
 
 
-<p><img height='200'   src="https://github-readme-streak-stats.herokuapp.com/?user=im-hamza-dev&" alt="im-hamza-dev" /></p>
+<p><img height='200'   src="https://github-readme-streak-stats.herokuapp.com/?user=im-hamza-dev&theme=radical&" alt="im-hamza-dev" /></p>
